@@ -1,0 +1,1 @@
+import{a as e,o,b as s,u as _,ea as c}from"./index-e1b4e266.js";import{_ as t}from"./_plugin-vue_export-helper-c27b6911.js";const a=["src"],n=e({__name:"ZTSLogo",setup(r){return(p,l)=>(o(),s("img",{class:"logo",src:_(c),alt:"",srcset:""},null,8,a))}});const u=t(n,[["__scopeId","data-v-e8fce13c"]]);export{u as default};

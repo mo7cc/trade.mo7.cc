@@ -1,0 +1,1 @@
+import{a as e,b as a,k as _,u as o,o as s,G as t}from"./index-e1b4e266.js";import{_ as n}from"./_plugin-vue_export-helper-c27b6911.js";const c={class:"PageWrapper"},r=e({__name:"IndexPage",setup(p){return(d,u)=>(s(),a("div",c,[_(o(t))]))}});const f=n(r,[["__scopeId","data-v-982ac573"]]);export{f as default};

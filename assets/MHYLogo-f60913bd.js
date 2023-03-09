@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as e,b as c}from"./index-e1b4e266.js";const t={},_={class:"logo",src:"//img-static.mihoyo.com/favicon.ico",alt:"",srcset:""};function s(a,n){return e(),c("img",_)}const i=o(t,[["render",s],["__scopeId","data-v-a7d7de6f"]]);export{i as default};

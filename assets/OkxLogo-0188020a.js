@@ -1,0 +1,1 @@
+import{a as o,o as e,b as s,u as _,e9 as a}from"./index-e1b4e266.js";import{_ as t}from"./_plugin-vue_export-helper-c27b6911.js";const c=["src"],n=o({__name:"OkxLogo",setup(r){return(p,l)=>(e(),s("img",{class:"logo",src:_(a),alt:"",srcset:""},null,8,c))}});const x=t(n,[["__scopeId","data-v-96539aa8"]]);export{x as default};

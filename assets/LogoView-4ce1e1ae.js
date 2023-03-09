@@ -1,0 +1,1 @@
+import{a as o,o as e,b as s,u as _,x as t}from"./index-e1b4e266.js";import{_ as c}from"./_plugin-vue_export-helper-c27b6911.js";const a=["src"],n=o({__name:"LogoView",setup(r){return(p,l)=>(e(),s("img",{class:"logo",src:_(t),alt:"",srcset:""},null,8,a))}});const m=c(n,[["__scopeId","data-v-935c747d"]]);export{m as default};
